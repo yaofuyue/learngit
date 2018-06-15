@@ -1,4 +1,4 @@
 git is very very nice
 but i dont konw gplt 
 git has a mutable index called stage
-
+git taracks changes of files
