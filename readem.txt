@@ -3,4 +3,5 @@ but i dont konw gplt
 git has a mutable index called stage
 git taracks changes of files
 Creating a new branch is quick and simple
+this is three
 
